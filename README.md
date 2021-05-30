@@ -1,2 +1,3 @@
 # CPP_homework
-https://github.com/youhaungla/images/blob/main/20210530103817.png
+1_2.cpp
+![image](https://github.com/youhaungla/images/blob/main/20210530103817.png)
